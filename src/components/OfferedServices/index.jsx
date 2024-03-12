@@ -30,6 +30,7 @@ export default function OfferedServices() {
                 <img
                   src="work-pics/residential.jpeg"
                   className="rounded-lg max-h-96 object-cover"
+                  alt="residential electrical work"
                 />
                 <div className="pl-1 pb-4">
                   {" "}
@@ -52,6 +53,7 @@ export default function OfferedServices() {
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
                   <img
                     src="construction.jpeg"
+                    alt="construction site with electrical work being done"
                     className="rounded-lg max-h-96 object-cover"
                   />
                   <div className="pl-1 pb-4">
@@ -68,6 +70,7 @@ export default function OfferedServices() {
                   <img
                     src="contractor.jpeg"
                     className="rounded-lg max-h-96 object-cover"
+                    alt="contractor working on electrical"
                   />
                   
                 <div className="pl-1 pb-4">
