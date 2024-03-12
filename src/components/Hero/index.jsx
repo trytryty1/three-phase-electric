@@ -44,6 +44,7 @@ export default function Hero() {
           <Image
             width={500}
             height={500}
+            loading="eager"
             className="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
             src="/work-pics/image0.AVIF"
             alt=""
