@@ -52,6 +52,7 @@ export default function OfferedServices() {
                   </p>
                 </div>
               </div>
+              <hr className="border-t-2 border-blue sm:hidden" />
               <div className="flex flex-col sm:flex-row sm:gap-6 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
                   <Image
@@ -77,6 +78,7 @@ export default function OfferedServices() {
                     </p>
                   </div>
                 </div>
+                <hr className="border-t-2 mb-4 border-blue sm:hidden" />
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
                   <Image
                     src="/contractor.AVIF"
