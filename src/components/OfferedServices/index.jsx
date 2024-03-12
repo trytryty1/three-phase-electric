@@ -17,7 +17,7 @@ export default function OfferedServices() {
                 </div>
               </div> */}
             <h2 className="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
-              Offered Services in Clarksville
+              Offered Services in Clarksville and Surrounding Areas
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               We're commited to helping our customers every step of the way with
