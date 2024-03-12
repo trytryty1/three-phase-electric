@@ -6,11 +6,11 @@ import Hours from "@/components/Hours";
 
 export default function Home() {
   return (
-    <>
+    <main className="bg-background">
       <Hero />
       <OfferedServices />
       <Hours />
       <ScheduleService />
-    </>
+    </main>
   );
 }

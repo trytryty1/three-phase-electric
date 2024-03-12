@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <div className="relative bg-white">
+    <div className="relative">
       <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
         <div className="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-48 xl:col-span-6">
           <div className="mx-auto max-w-2xl lg:mx-0">
@@ -18,10 +18,10 @@ export default function Hero() {
                 </a>
               </div>
             </div> */}
-            <h1 className="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
-              Welcome to Three Phase Electric
+            <h1 className="mt-24 text-4xl font-bold tracking-tight text-primary-900 sm:mt-10 sm:text-6xl">
+              Welcome to Three Phase Electric LLC
             </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-600">
+            <p className="mt-6 text-lg leading-8 text-primary-600">
               Commited to Excellence. Licensed and Insured.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
@@ -45,7 +45,7 @@ export default function Hero() {
             width={500}
             height={500}
             loading="eager"
-            className="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
+            className="w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
             src="/work-pics/image0.AVIF"
             alt=""
           />
