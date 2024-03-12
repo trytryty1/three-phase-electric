@@ -4,7 +4,7 @@ export default function ScheduleService() {
       <img
         src="contractor.AVIF"
         alt=""
-        className="absolute inset-0 -z-10 h-full w-full object-cover"
+        className="absolute inset-0 -z-10 h-full w-full object-cover sm:hidden"
       />
       <div
         className="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl"
@@ -32,10 +32,10 @@ export default function ScheduleService() {
       </div>
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
-          <h2 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">
+          <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
             Schedule Service Today
           </h2>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
+          <p className="mt-6 text-lg leading-8 text-gray-300">
             Schedule your Electrical service today. Just give us a
             call and we will be there to help you with your electrical needs.
           </p>
