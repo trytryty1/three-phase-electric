@@ -65,10 +65,10 @@ export default function Navbar() {
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:pr-0">
                 <a
-                  href="phone:123-456-7890"
+                  href="tel:931-345-4664"
                   className="hidden sm:inline-flex underline items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus-visible:outline focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-indigo-500"
                 >
-                  123-456-7890
+                  931-345-4664
                 </a>
               </div>
             </div>
@@ -86,7 +86,7 @@ export default function Navbar() {
               </Disclosure.Button>
               <Disclosure.Button
                 as="a"
-                href="phone:123-456-7890"
+                href="tel:931-345-4664"
                 className="border-l-4 flex flex-row border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-500 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700"
               >
                 Call Now
