@@ -2,7 +2,7 @@ export default function Hours() {
   return (
     <div className="bg-background">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="max-w-2xl pl-4 mx-auto py-16 sm:py-16 lg:py-16 lg:max-w-none">
+        <div className="max-w-2xl pl-4 py-16 sm:py-16 lg:py-16 lg:max-w-none">
           <h2 className="text-3xl font-extrabold tracking-tight text-primary-900">
             Hours of Operation
           </h2>
