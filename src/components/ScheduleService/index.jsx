@@ -36,7 +36,7 @@ export default function ScheduleService() {
             Schedule Service Today
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Schedule your Electrical Contractor service today. Just give us a
+            Schedule your Electrical service today. Just give us a
             call and we will be there to help you with your electrical needs.
           </p>
           <a

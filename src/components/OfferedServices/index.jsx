@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function OfferedServices() {
   return (
     <div className="relative bg-white">
@@ -27,9 +29,11 @@ export default function OfferedServices() {
             </p>
             <div className="flex flex-col mt-6 space-y-6">
               <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
-                <img
-                  src="work-pics/residential.jpeg"
-                  className="rounded-lg max-h-96 object-cover"
+                <Image
+                  width={500}
+                  height={500}
+                  src="/work-pics/residential.jpeg"
+                  className="rounded-lg max-h-96 w-full object-cover"
                   alt="residential electrical work"
                 />
                 <div className="pl-1 pb-4">
@@ -51,8 +55,10 @@ export default function OfferedServices() {
               </div>
               <div className="flex flex-col sm:flex-row sm:gap-6 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
-                  <img
-                    src="construction.jpeg"
+                  <Image
+                    src="/construction.jpeg"
+                    width={500}
+                    height={500}
                     alt="construction site with electrical work being done"
                     className="rounded-lg max-h-96 object-cover"
                   />
@@ -62,26 +68,39 @@ export default function OfferedServices() {
                       Commercial Services
                     </h3>
                     <p className="text-gray-600">
-                      Frequently utilized by most of our buisness clients, this service has been essentail to success on many occasions. When it comes to all of our services, you can count on us to take care of your every need. We pride ourselves on our exceptional customer service, and guarantee you'll love working with our team. Let us know how we can assist you with your commercial projects today.
+                      Frequently utilized by most of our buisness clients, this
+                      service has been essentail to success on many occasions.
+                      When it comes to all of our services, you can count on us
+                      to take care of your every need. We pride ourselves on our
+                      exceptional customer service, and guarantee you'll love
+                      working with our team. Let us know how we can assist you
+                      with your commercial projects today.
                     </p>
                   </div>
                 </div>
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
-                  <img
-                    src="contractor.jpeg"
+                  <Image
+                    src="/contractor.jpeg"
+                    width={500}
+                    height={500}
                     className="rounded-lg max-h-96 object-cover"
-                    alt="contractor working on electrical"
+                    alt="electrion working on electrical"
                   />
-                  
-                <div className="pl-1 pb-4">
-                  {" "}
-                  <h3 className="text-3xl pb-3 font-semibold text-gray-900">
-                    Solar
-                  </h3>
-                  <p className="text-gray-600">
-                    We want all of our customers to experience the impressive level of professionalism when working with 3 Phase Electric LLC. All of our services, especially this one, exist to make your life easier and stress free. You can trust us to supply you with the best products, as well as top quality customer service.
-                  </p>
-                </div>
+
+                  <div className="pl-1 pb-4">
+                    {" "}
+                    <h3 className="text-3xl pb-3 font-semibold text-gray-900">
+                      Solar
+                    </h3>
+                    <p className="text-gray-600">
+                      We want all of our customers to experience the impressive
+                      level of professionalism when working with 3 Phase
+                      Electric LLC. All of our services, especially this one,
+                      exist to make your life easier and stress free. You can
+                      trust us to supply you with the best products, as well as
+                      top quality customer service.
+                    </p>
+                  </div>
                 </div>
               </div>
               <div></div>
