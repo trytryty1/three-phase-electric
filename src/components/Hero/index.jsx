@@ -19,7 +19,7 @@ export default function Hero() {
               </div>
             </div> */}
             <h1 className="mt-24 text-4xl font-bold tracking-tight text-primary-900 sm:mt-10 sm:text-6xl">
-              Welcome to Three Phase Electric LLC
+              Welcome to 3 Phase Electric LLC
             </h1>
             <p className="mt-6 text-lg leading-8 text-primary-600">
               Commited to Excellence. Licensed and Insured.

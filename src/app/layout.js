@@ -5,12 +5,12 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Three Phase Electric",
+  title: "3 Phase Electric",
   description: "Safe, Reliable, Professional Electrical Contractor in Lorem ipsum",
   image: "/logo.png",
   robots: "follow, index",
   locale: "en_US",
-  site_name: "Three Phase Electric",
+  site_name: "3 Phase Electric",
   type: "website",
   url: "https://threephaseelectricllc.com",
   phone: "931-345-4664",
