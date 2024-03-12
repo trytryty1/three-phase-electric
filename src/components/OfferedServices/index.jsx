@@ -32,7 +32,7 @@ export default function OfferedServices() {
                 <Image
                   width={500}
                   height={500}
-                  src="/work-pics/residential.jpeg"
+                  src="/work-pics/residential.AVIF"
                   className="rounded-lg max-h-96 w-full object-cover"
                   alt="residential electrical work"
                 />
@@ -56,7 +56,7 @@ export default function OfferedServices() {
               <div className="flex flex-col sm:flex-row sm:gap-6 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
                   <Image
-                    src="/construction.jpeg"
+                    src="/construction.AVIF"
                     width={500}
                     height={500}
                     alt="construction site with electrical work being done"
@@ -80,7 +80,7 @@ export default function OfferedServices() {
                 </div>
                 <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 sm:w-1/2 w-full transform transition duration-300 ease-in-out">
                   <Image
-                    src="/contractor.jpeg"
+                    src="/contractor.AVIF"
                     width={500}
                     height={500}
                     className="rounded-lg max-h-96 object-cover"
