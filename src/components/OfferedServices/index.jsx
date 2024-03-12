@@ -21,20 +21,20 @@ export default function OfferedServices() {
             </h2>
             <div className="flex flex-col mt-6 space-y-6">
               <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
-                <img src="house-lights.jpg" className="rounded-lg" />
+                <img src="work-pics/residential.jpeg" className="rounded-lg max-h-96 object-cover" />
                 <h3 className="text-3xl pb-4 font-semibold text-gray-900 pl-4">
                   Residential
                 </h3>
               </div>
-              <div className="flex flex-col sm:flex-row sm:space-x-6 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
-                <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
-                  <img src="construction.jpg" className="rounded-lg" />
+              <div className="flex flex-col sm:flex-row sm:gap-6 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
+                <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 max-h-96 w-1/2 sm:w-full transform transition duration-300 ease-in-out">
+                  <img src="construction.jpeg" className="rounded-lg max-h-96 object-cover" />
                   <h3 className="text-3xl pb-4 font-semibold text-gray-900 pl-4">
                     Construction
                   </h3>
                 </div>
-                <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
-                  <img src="construction.jpg" className="rounded-lg" />
+                <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 max-h-96 w-1/2 sm:w-full transform transition duration-300 ease-in-out">
+                  <img src="contractor.jpeg" className="rounded-lg max-h-96 object-cover" />
                   <h3 className="text-3xl pb-4 font-semibold text-gray-900 pl-4">
                     Electrical contractor
                   </h3>
