@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "3 Phase Electric",
-  description: "Safe, Reliable, Professional Electrical Contractor in Lorem ipsum",
+  description: "Safe, Reliable, Professional Electrical Contractor in Clarksville, TN",
   image: "/logo.png",
   robots: "follow, index",
   locale: "en_US",
