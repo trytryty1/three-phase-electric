@@ -19,13 +19,13 @@ export default function OfferedServices() {
                 </div>
               </div> */}
             <h2 className="mt-24 text-4xl font-bold tracking-tight text-primary-900 sm:mt-10 sm:text-6xl">
-              Offered Services in Clarksville and Surrounding Areas
+              Electrical Services in Clarksville and Surrounding Areas
             </h2>
             <p className="mt-6 text-lg leading-8 text-primary-600">
               We're commited to helping our customers every step of the way and
-              providing useful services to take care of all their needs read
-              below to learn about the range of services we provide.
+              providing useful services to take care of all electrical needs.
             </p>
+            {/* Need to create links to their seperate pages */}
             <div className="flex flex-col mt-6 space-y-6">
               <div className="flex flex-col space-y-2 gap-1 rounded-lg hover:translate-y-1 transform transition duration-300 ease-in-out">
                 <Image
@@ -41,14 +41,16 @@ export default function OfferedServices() {
                     Residential
                   </h3>
                   <p className="text-primary-600">
-                    This is one of your most popular services available for home
-                    owners who need something done anything from a light switch
-                    to a whole home generator. It's made a big difference for
-                    many of our customers and is provided with the highest level
-                    of excellence. With calling us for your residentail needs,
-                    we ensure everything will go seamless and handled in a
-                    timely manner. Whenever you work with 3 Phase Electric LLC,
-                    you can trust that you're in great hands.
+                    This is one of our most popular services available for home
+                    owners who need electrical work done. We can do anything as
+                    simple as installing a light switch or as complex a
+                    generator powering an entire home. Our services have made a
+                    big difference for many of our customers, and we provide the
+                    highest level of excellence. call us for your residential
+                    electrical needs, and we will everything will go seamless
+                    and handled in a timely manner. Whenever you work with 3
+                    Phase Electric LLC, you can trust that your home is in great
+                    hands.
                   </p>
                 </div>
               </div>
@@ -68,8 +70,6 @@ export default function OfferedServices() {
                       Commercial Services
                     </h3>
                     <p className="text-primary-600">
-                      Frequently utilized by most of our buisness clients, this
-                      service has been essentail to success on many occasions.
                       When it comes to all of our services, you can count on us
                       to take care of your every need. We pride ourselves on our
                       exceptional customer service, and guarantee you'll love
