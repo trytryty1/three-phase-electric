@@ -29,7 +29,7 @@ export default function ScheduleService() {
             call and we will be there to help you with your electrical needs.
           </p>
           <a
-            href="tel:931-345-4664"
+            href="tel:7194935762"
             className="mt-10 inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus-visible:outline focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-indigo-500"
           >
             Call Us

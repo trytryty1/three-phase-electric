@@ -86,7 +86,7 @@ export default function Navbar() {
               </Disclosure.Button>
               <Disclosure.Button
                 as="a"
-                href="tel:931-345-4664"
+                href="tel:7194935762"
                 className="border-l-4 flex flex-row border-transparent py-2 pl-3 pr-4 text-base font-medium text-white-500 hover:border-gray-300 hover:bg-gray-50 hover:text-white-700"
               >
                 Call Now
