@@ -1,4 +1,5 @@
 import Image from "next/image";
+import HeroBanner from "../HeroBanner";
 
 export default function Hero() {
   return (
@@ -22,8 +23,15 @@ export default function Hero() {
               Welcome to 3 Phase Electric LLC
             </h1>
             <p className="mt-6 text-lg leading-8 text-primary-600">
-              Commited to Excellence. Licensed and Insured.
+              At 3 Phase Electric LLC, we specialize in residential, commercial,
+              and solar installation services. From small-scale projects to
+              large-scale undertakings, our team is equipped to handle it all.
+              Schedule a consultation today and let us tailor a solution to meet
+              your needs.{" "}
             </p>
+            <a className="underline mt-10 text-lg font-semibold text-primary-900 my-4">
+              See our services offered in Clarksville and surrounding areas
+            </a>
             <div className="mt-10 flex items-center gap-x-6">
               <a
                 href="tel:7194935762"

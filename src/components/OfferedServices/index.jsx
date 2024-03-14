@@ -41,16 +41,18 @@ export default function OfferedServices() {
                     Residential
                   </h3>
                   <p className="text-primary-600">
-                    This is one of our most popular services available for home
-                    owners who need electrical work done. We can do anything as
-                    simple as installing a light switch or as complex a
-                    generator powering an entire home. Our services have made a
-                    big difference for many of our customers, and we provide the
-                    highest level of excellence. call us for your residential
-                    electrical needs, and we will everything will go seamless
-                    and handled in a timely manner. Whenever you work with 3
-                    Phase Electric LLC, you can trust that your home is in great
-                    hands.
+                    Welcome to 3 Phase Electric LLC, your trusted partner for
+                    residential electrical solutions. Our team specializes in a
+                    comprehensive range of services, from simple light switch
+                    installations to complex whole-home generator setups. We
+                    take pride in delivering excellence in every project,
+                    ensuring seamless and timely completion tailored to your
+                    needs. Countless satisfied homeowners have entrusted us for
+                    our commitment to top-quality workmanship, professionalism,
+                    and reliability. When you choose 3 Phase Electric LLC, you
+                    can rest assured that your home is in expert hands. Contact
+                    us today for a hassle-free experience and peace of mind with
+                    your residential electrical needs.
                   </p>
                 </div>
               </div>
@@ -70,11 +72,22 @@ export default function OfferedServices() {
                       Commercial Services
                     </h3>
                     <p className="text-primary-600">
-                      When it comes to all of our services, you can count on us
-                      to take care of your every need. We pride ourselves on our
-                      exceptional customer service, and guarantee you'll love
-                      working with our team. Let us know how we can assist you
-                      with your commercial projects today.
+                      At 3 Phase Electric LLC, we understand the critical
+                      importance of reliable and efficient power solutions for
+                      businesses. With our expertise in commercial electrical
+                      services, we offer tailored solutions to meet the unique
+                      needs of commercial establishments, from small offices to
+                      large industrial complexes. We are equipped to handle a
+                      wide range of projects, including electrical system
+                      installations, upgrades, maintenance, and repairs. Whether
+                      you're looking to optimize energy efficiency, enhance
+                      safety measures, or ensure uninterrupted power supply,
+                      we're here to provide expert guidance and dependable
+                      service. Trust 3 Phase Electric LLC for your commercial
+                      power needs, and experience the difference of working with
+                      a dedicated partner committed to your success. Contact us
+                      today to discuss how we can support your business with
+                      reliable and efficient power solutions.
                     </p>
                   </div>
                 </div>
@@ -94,12 +107,22 @@ export default function OfferedServices() {
                       Solar
                     </h3>
                     <p className="text-primary-600">
-                      We want all of our customers to experience the impressive
-                      level of professionalism when working with 3 Phase
-                      Electric LLC. All of our services, especially this one,
-                      exist to make your life easier and stress free. You can
-                      trust us to supply you with the best products, as well as
-                      top quality customer service.
+                      Discover the power of renewable energy with 3 Phase
+                      Electric LLC's solar installation services. We specialize
+                      in designing and installing customized solar solutions for
+                      residential and commercial properties. We are committed to
+                      working closely with you to assess your energy needs,
+                      evaluate your property's suitability for solar, and
+                      develop a tailored solar system that maximizes efficiency
+                      and savings. From initial consultation to final
+                      installation, we prioritize quality craftsmanship,
+                      seamless integration, and customer satisfaction. With
+                      solar energy, you can reduce your carbon footprint, lower
+                      your electricity bills, and enjoy energy independence.
+                      Join the green energy revolution with 3 Phase Electric
+                      LLC's solar installation services. Contact us today to
+                      schedule a consultation and take the first step toward a
+                      brighter, cleaner future
                     </p>
                   </div>
                 </div>
