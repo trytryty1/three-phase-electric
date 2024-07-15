@@ -1,6 +1,6 @@
 # Three Phase Electric LLC Website
 
-This is the official website for Three Phase Electric LLC, built using [Next.js](https://nextjs.org/).
+This is the official website for [Three Phase Electric LLC](https://www.threephaseelectricllc.com/), built using [Next.js](https://nextjs.org/).
 
 ## Table of Contents
 
