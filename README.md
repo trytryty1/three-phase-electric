@@ -12,10 +12,6 @@ This is the official website for Three Phase Electric LLC, built using [Next.js]
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-This is the official website for [Three Phase Electric LLC](https://www.threephaseelectricllc.com/), built using [Next.js](https://nextjs.org/).
-
 ## Getting Started
 
 To get started with the project, follow these steps:
